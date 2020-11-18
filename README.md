@@ -28,4 +28,4 @@ This repository includes automated STIG policies for Red Hat 7 Enterprise throug
 - Script moves on to next policy
 
 ## Recommendations for improvement
-- Currently the script removes and creates a new log file everytime the script is run. This leads to only saving the logs of that session. Add function to append logs to an existing log file with the date so that users can keep track of past sessions.
+- Currently the script removes and creates a new log file everytime the script is run. This leads to only saving the logs of that session. Add function to append logs to an existing log file with the current date so that users can keep track of past sessions.
