@@ -9,7 +9,7 @@ This repository includes automated STIG policies for Red Hat 7 Enterprise throug
 - **BashTutorialCheatSheet** : This folder contains a script file with some basic BASH scripting commands to get you started.
 
 
-## How to run script##
+## How to run script
 - Download **AllPolicies.sh**
 - In the terminal, navigate to the location of **AllPolicies.sh** 
 - Type **chmod u+x AllPolicies.sh** to create an executable file for it
